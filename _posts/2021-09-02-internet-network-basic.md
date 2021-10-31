@@ -2,10 +2,11 @@
 layout: post
 title: 📟 1. 당연한 인터넷 네트워크 | 웹모르는 웹개발자
 subtitle: Do you know Mechanism of Internet Network?
-cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
+cover-img: https://images.unsplash.com/photo-1548544027-1a96c4c24c7a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80
 tags: [cs, 웹모르는웹개발자]
 ---
+
+<p></p>
 
 # 인터넷이 뭐에요?
 
