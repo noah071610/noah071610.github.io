@@ -3,10 +3,11 @@ layout: post
 title: 🤞 CRA에서 babel이나 webpack 설정하는 방법
 subtitle: Create react App를 craco 라이브러리로 조정해보자.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [javascript, react]
 ---
+
+# CRA는 Create react App 의 약자이다.
 
 즉 React App 의 초기설정을 쉽게 해주자는 취지로 만든건데
 
