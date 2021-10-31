@@ -2,10 +2,10 @@
 layout: post
 title: 🤞 CRA에서 babel이나 webpack 설정하는 방법
 subtitle: How to set babel and webpack by using Create react app.
-cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
 tags: [javascript, react]
 ---
+
+<p></p>
 
 # CRA는 Create react App 의 약자이다.
 
