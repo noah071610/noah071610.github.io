@@ -2,8 +2,6 @@
 layout: post
 title: 🔑 MySQL 비밀번호 정책
 subtitle: Change policy of MySQL password.
-cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
 tags: [mysql, ubuntu]
 ---
 
