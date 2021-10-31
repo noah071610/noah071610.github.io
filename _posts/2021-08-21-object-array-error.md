@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 😔 cannot assign to read only property '0' of object ' object array ' sort
-subtitle: Javascript의 Call by Ref 문제 해결. (with Typescript)
+subtitle: Resolve Call by Ref problem of Javascript (+ with Typescript)
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [javascript, typescript]
