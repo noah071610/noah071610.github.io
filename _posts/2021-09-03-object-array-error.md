@@ -1,13 +1,14 @@
 ---
 layout: post
-title: 🤞 CRA에서 babel이나 webpack 설정하는 방법
-subtitle: Create react App를 craco 라이브러리로 조정해보자.
+title: 😔 cannot assign to read only property '0' of object ' object array ' sort
+subtitle: Javascript의 Call by Ref 문제 해결. (with Typescript)
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
-tags: [javascript]
+tags: [javascript, typescript]
 ---
 
-{: .box-error} Error: cannot assign to read only property '0' of object ' object array ' sort.
+{: .box-error}
+**Error:** cannot assign to read only property '0' of object ' object array ' sort.
 
 ```javascript
 export default function shuffle(obj: CardObj[]) {
