@@ -9,7 +9,7 @@ tags: [typescript, AWS]
 
 ## Typescript Multer Error
 
-Multer 라이브러리 사용하는 프로젝트에 AWS의 multerS3 를 이용한다면 마주칠 #typescript 에러다.
+Multer 라이브러리 사용하는 프로젝트에 AWS의 multerS3 를 이용한다면 마주칠 Typescript 에러다.
 
 찾는 방법은 타입스크립트가 어떻게 정의됬는지 찾아보면 된다.
 
