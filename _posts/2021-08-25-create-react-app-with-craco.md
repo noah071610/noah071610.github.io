@@ -8,8 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [javascript, react]
 ---
 
-# CRA는 Create react App 의 약자이다.
-
 즉 React App 의 초기설정을 쉽게 해주자는 취지로 만든건데
 
 단점도 있으니 커스터마이징이 굉장히 어렵다는것이다
