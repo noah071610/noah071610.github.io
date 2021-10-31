@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🤞 CRA에서 babel이나 webpack 설정하는 방법
-subtitle: Create react App를 craco 라이브러리로 조정해보자.
+subtitle: How to set babel and webpack by using Create react app.
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [javascript, react]
