@@ -2,10 +2,10 @@
 layout: post
 title: 😔 cannot assign to read only property '0' of object ' object array ' sort
 subtitle: Resolve Call by Ref problem of Javascript (+ with Typescript)
-cover-img: /assets/img/path.jpg
-share-img: /assets/img/path.jpg
 tags: [javascript, typescript]
 ---
+
+<p></p>
 
 {: .box-error}
 **Error:** cannot assign to read only property '0' of object ' object array ' sort.
