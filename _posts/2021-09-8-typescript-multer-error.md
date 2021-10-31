@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 😤 Typescript Multer Error &#58; Property 'location' does not exist on type 'File'.
+title: "😤 Typescript Multer Error : Property 'location' does not exist on type 'File'."
 subtitle: Let's right type AWS, MulterS3 with Typescript.
 tags: [typescript, AWS]
 ---
