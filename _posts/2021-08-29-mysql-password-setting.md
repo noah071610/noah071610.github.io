@@ -5,6 +5,8 @@ subtitle: Change policy of MySQL password.
 tags: [mysql, ubuntu]
 ---
 
+<p></p>
+
 # MySQL 비밀번호 강도를 변경해보자.
 
 Mysql 의 MySQL_secure은 우리의 DB를 안전하게 지켜준다.
