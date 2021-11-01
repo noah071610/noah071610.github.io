@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 💁‍♂️ 브라우저 렌더링 방식, 브라우저는 어떻게 화면을 보여줄까?  | 웹모르는 웹개발자
+title: 💁‍♂️ 3. 브라우저 렌더링 방식, 브라우저는 어떻게 화면을 보여줄까?  | 웹모르는 웹개발자
 subtitle: How browser render our contents
 tags: [cs, 웹모르는웹개발자]
 ---
