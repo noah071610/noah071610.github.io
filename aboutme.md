@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Noah! Who are you?
-subtitle: Umm Umm! Okay, Let's me introduce myself
+title: About Noah
+subtitle: Umm Umm, Okay! Let's me introduce myself 🎤
 ---
 
 ![profile_looptop](https://user-images.githubusercontent.com/74864925/139642124-1cdfe388-6b88-44d2-81c8-78d3d68e1291.jpg)
@@ -13,6 +13,8 @@ I'm Jang Hyun Soo (Noah) from South Korea.
 Who have paid attention to Clean-Code, Readable-Code and Refactoring!
 
 I especially love building websites by using combination of React and NextJS , NestJS for Server.
+
+<br/>
 
 ## Skills 🐹
 
