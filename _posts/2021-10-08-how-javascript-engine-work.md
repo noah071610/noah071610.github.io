@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 📥 5. 자바스크립트 엔진 동작 원리 이해하기 | 웹모르는 웹개발자
-subtitle: How Javascript engine work on the browser. 
+title: ☕ 5. 자바스크립트 엔진 동작 원리 재밌게 이해하기 | 웹모르는 웹개발자
+subtitle: Let's learn how Javascript engine work on the browser in a fun way.
 tags: [javascript, cs, 웹모르는웹개발자]
 ---
 
