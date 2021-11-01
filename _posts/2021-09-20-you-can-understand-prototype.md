@@ -5,6 +5,8 @@ subtitle: Hey stranger? You can understand prototype!
 tags: [javascript]
 ---
 
+<p></p>
+
 ![야나두](https://mblogthumb-phinf.pstatic.net/MjAxNzA3MjVfMjgy/MDAxNTAwOTQ3ODU0NDYx.nr2KvglxcxWit7mSM1HNOzYtmvDNdY9g9u6v9abbKZ8g.eWCCgEdVLr4G7CiEOHdSgRqwyPwW_jZ5yOjJHvHVi-0g.JPEG.imok0328/%EC%95%BC%EB%82%98%EB%91%90_%EC%A1%B0%EC%A0%95%EC%A0%81_1.jpg?type=w800)
 - 썸네일 출처 : 야나두 (https://www.yanadoo.co.kr/)
 
