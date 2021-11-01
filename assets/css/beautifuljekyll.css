@@ -2,6 +2,7 @@
 layout: null
 ---
 
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
 @import url("pygment_highlights.css");
 
 /* --- General --- */
@@ -11,7 +12,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: "Spoqa Han Sans Neo", sans-serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -475,7 +476,7 @@ footer .footer-custom-content {
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: "Spoqa Han Sans Neo", sans-serif;
 }
 .post-heading .post-meta {
   display: inline-block;
