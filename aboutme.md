@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Noah
-subtitle: Are you interested in me? 🥰 Okay nya let me introduce 🎤
+subtitle: Are you interested in me? 🥰 Nya~ let me introduce 🎤
 ---
 
 ![profile_looptop](https://user-images.githubusercontent.com/74864925/139642124-1cdfe388-6b88-44d2-81c8-78d3d68e1291.jpg)
