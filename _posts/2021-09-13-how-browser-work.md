@@ -27,8 +27,6 @@ tags: [cs, 웹모르는웹개발자]
 
 - 출처 : https://feel5ny.github.io/
 
-<br/>
-
 1. 사용자 인터페이스 <br/><br/>
 주소 표시줄, 이전/다음 버튼, 북마크 메뉴 등.
 
@@ -50,9 +48,7 @@ HTTP 요청과 같은 네트워크 호출에 사용됨.
 7. 자료 저장소 <br/><br/>
 이 부분은 자료를 저장하는 계층
 
-출처 : https://monny.tistory.com/185
-
-<br/>
+- 출처 : https://monny.tistory.com/185
 
 우리가 주목해야할것은 3번과 6번입니다.
 
