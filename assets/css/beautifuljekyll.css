@@ -964,7 +964,7 @@ pre {
   margin-top: 0;
 }
 
-.blog-post h1, h2, h3, h4 {
+.blog-post > h2 {
   margin-top:0;
   padding-top: 1.25rem;
 }
